@@ -1,0 +1,12 @@
+#b{
+    font-family: sans-serif;
+    color: blue;
+  }
+
+.foo{
+  font-weight: bold;
+  font-size: 20px;
+}
+div>p{
+  background-color: yellow;
+}
